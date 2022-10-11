@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdumalik Bakhriddinov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right"  alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
+<img align="right"  alt="Coding" width="400" src="https://th.bing.com/th/id/R.3d14eead8af87095398bb2116bcdf02b?rik=s4jwFay0rWpoQQ&pid=ImgRaw&r=0">
 
 
 
