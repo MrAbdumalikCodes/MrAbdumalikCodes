@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=mrabdumalikcodes&label=Profile%20views&color=0e75b6&style=flat](https://gitlab.com/uploads/-/system/project/avatar/33045377/2507930-middle.png)" alt="mrabdumalikcodes" /> </p>
+<p align="left"> <img src="https://flyclipart.com/thumb2/smartlogic-explores-javascript-react-and-flux-tech-logos-221735.png" alt="mrabdumalikcodes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
