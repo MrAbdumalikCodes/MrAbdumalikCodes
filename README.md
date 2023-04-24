@@ -1,4 +1,4 @@
-<img align="center" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://blog.faradars.org/wp-content/uploads/2021/09/what-frontend-programming-languages-should-we-learn.jpg)" alt="app">
+<img align="center" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://blog.faradars.org/wp-content/uploads/2021/09/what-frontend-programming-languages-should-we-learn.jpg)" alt="app">
 <h2 align="center">Hi 👋, I'm Abdumalik</h1>
 <h3 align="center">A passionate frontend developer from Karshi</h3>
 - 🔭 I’m currently working on [Various projects](https://t.me/mr_abdumalikcodes)
