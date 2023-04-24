@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdumalik</h1>
+<img align="center" src="[https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://blog.faradars.org/wp-content/uploads/2021/09/what-frontend-programming-languages-should-we-learn.jpg)" alt="app">
+<h2 align="center">Hi 👋, I'm Abdumalik</h1>
 <h3 align="center">A passionate frontend developer from Karshi</h3>
-<img style="margin:0 auto" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="app">
 - 🔭 I’m currently working on [Various projects](https://t.me/mr_abdumalikcodes)
 
 - 🌱 I’m currently learning **VueJs,NextJs,TypeScript,TSX**
