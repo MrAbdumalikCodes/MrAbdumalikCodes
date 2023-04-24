@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdumalik</h1>
 <h3 align="center">A passionate frontend developer from Karshi</h3>
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="app">
+<img style=""margin:0 auto"; src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="app">
 - 🔭 I’m currently working on [Various projects](https://t.me/mr_abdumalikcodes)
 
 - 🌱 I’m currently learning **VueJs,NextJs,TypeScript,TSX**
